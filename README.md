@@ -1,4 +1,4 @@
-<h1 align="center">Estudo - Python </h1>
+<h1 align="center">Prática - HTML e CSS </h1>
 
 
 ---
@@ -8,7 +8,8 @@ Este repositório foi criado com base no meu roadmap de estudos da linguagem Pyt
 
 ## ⚙ Estrutura do repositório
 
-- /teoria/ - Pasta que contém os arquivos de teoria do meu estudo de Python separados em partes, do básico ao avançado.
-- /exercios/ - Pasta onde ficarão dispostos os exercicios e pequenos programas criados a partir dos conhecimentos adquiridos.
+- /exercicios-avançados/ - Projetos e exercícios avançados com foco em responsividade, Flexbox, Grid e boas práticas.
+- /exercios-fundamentos/ - Exercícios práticos com foco em estrutura HTML, listas, tabelas e CSS básico.
+- /projetos/ - Grandes projetos desenvolvidos durante o curso
 - README.md - Este arquivo, que explica como funciona o repositório.
 ---
