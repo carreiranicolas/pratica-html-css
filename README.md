@@ -11,3 +11,4 @@ Este repositório foi criado com base no meu roadmap de estudos da linguagem Pyt
 - /teoria/ - Pasta que contém os arquivos de teoria do meu estudo de Python separados em partes, do básico ao avançado.
 - /exercios/ - Pasta onde ficarão dispostos os exercicios e pequenos programas criados a partir dos conhecimentos adquiridos.
 - README.md - Este arquivo, que explica como funciona o repositório.
+---
