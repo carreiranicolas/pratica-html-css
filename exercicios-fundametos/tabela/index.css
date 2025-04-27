@@ -1,0 +1,13 @@
+table{
+    border: 1px solid black;
+    width: 600px;
+}
+
+td, th{
+    border: 1px solid black;
+}
+
+thead{
+    background-color: rgb(176, 207, 197);
+    color: azure;
+}
