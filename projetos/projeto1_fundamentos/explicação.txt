@@ -1,0 +1,10 @@
+Nesta pasta, projeto 1, teremos um projeto pessoal (ou seja, um projeto que não foi passado no curso da B7Web, 
+mas eu estou fazendo para praticar meus conhecimentos) que é uma composição dos exercicios de fundamentos.
+
+Desta forma, este projeto sera uma junção de:
+
+- Pagina 1 (pasta de paginas_apresentacao)
+
+- Formulario 1 (pasta de formularios)
+
+- Tabela 1 (pasta de tabelas)
