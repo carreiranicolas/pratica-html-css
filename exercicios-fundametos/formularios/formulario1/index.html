@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Prática - Formulário1</title>
+</head>
+<body>
+
+    
+    <div id="tudo">
+        <h1>Meu formulario</h1>
+        <form action="page.html" method="get">
+
+            <label class="common">
+                Nome <br>
+                <input type="text" name="fname">
+            </label>
+
+            <label class="common">
+                Sobrenome <br>
+                <input type="text" name="lname">
+            </label> 
+            
+            <label class="common">
+                Sexo <br>
+                <label>
+                    M
+                    <input type="radio" name="sexo">
+                </label>
+                <label> 
+                    <input type="radio" name="sexo">
+                    F
+                </label>
+                
+            </label>
+            
+
+            <label class="common">
+                Email <br>
+                <input type="email" name="email">
+            </label> 
+            
+            
+            <label class="common">
+                Senha <br>
+                <input type="password" name="senha">
+            </label>
+            
+            <label class="common">
+                Categoria <br>
+                <select name="categoria">
+                    <option>Mais vendido</option>
+                    <option>Mais caro</option>
+                    <option>Mais barato</option>
+                </select> 
+            </label> 
+
+        <label class="common">
+                Descrição <br>
+                <textarea name="descricao"></textarea> 
+        </label> 
+        
+
+            <label class="common">
+                <input type="checkbox">
+                Declaro que li os termos de uso
+            </label> 
+            
+            <button>Faça o envio</button>
+        </form>
+    </div>
+    
+</body>
+</html>

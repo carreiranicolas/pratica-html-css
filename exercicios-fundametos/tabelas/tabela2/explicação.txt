@@ -1,0 +1,2 @@
+Aqui vai a prática de um exercicio de tabela onde eu pego uma
+tabela na internet e tento fazer igual sem o máximo de consulta

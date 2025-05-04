@@ -1,13 +1,43 @@
+body {
+    
+    height: 350px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+    
+}
+
 table{
-    border: 1px solid black;
+    
     width: 600px;
 }
 
 td, th{
-    border: 1px solid black;
+    
+    padding: 8px;
+    text-align: center
 }
 
 thead{
-    background-color: rgb(176, 207, 197);
-    color: azure;
+    background-color: rgb(42, 202, 154);
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+tbody{
+    background-color: rgb(199, 199, 231);
+    font-family: monospace;
+}
+
+tbody tr:hover{
+    background-color: coral;
+}
+
+tbody td{
+    border-top: 1px solid black;
 }
