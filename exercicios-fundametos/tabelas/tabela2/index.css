@@ -1,0 +1,35 @@
+table{
+    width: 600px;
+    border-collapse: collapse;
+    
+}
+
+thead{
+    background-color: #7B002C;
+    color:whitesmoke;
+    font-family: "Cal Sans", sans-serif;
+    font-size: 20px;
+    font-style: italic;
+   
+    
+}
+
+th, td{
+    padding: 8px;
+    text-align: center;
+
+}
+
+th:first-child,
+td:first-child {
+  text-align: left; /* Só a primeira coluna à esquerda */
+}
+
+
+tbody tr{
+    font-family: "Cairo", sans-serif;
+}
+
+tbody tr:nth-child(even){
+    background-color: rgb(199, 184, 184);
+}
