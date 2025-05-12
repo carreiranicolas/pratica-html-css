@@ -1,0 +1,18 @@
+table{
+    
+    border-collapse: collapse;
+    width: 400px;
+}
+
+thead{
+    background-color: #D39B6D;
+    color: whitesmoke;
+}
+
+tbody{
+    color: #D39B6D;
+}
+
+tr:nth-child(even){
+    background-color: rgb(236, 212, 181);
+}
