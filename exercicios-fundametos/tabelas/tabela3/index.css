@@ -2,6 +2,8 @@ table{
     
     border-collapse: collapse;
     width: 400px;
+    font-family: "Merriweather", serif;
+    text-align: center;
 }
 
 thead{
@@ -11,8 +13,18 @@ thead{
 
 tbody{
     color: #D39B6D;
+    background-color: rgb(251, 251, 251);
 }
 
 tr:nth-child(even){
-    background-color: rgb(236, 212, 181);
+    background-color: rgb(240, 240, 240);
+}
+
+th:first-child,
+td:first-child {
+  text-align: left; /* Só a primeira coluna à esquerda */
+}
+
+th,td{
+    padding: 6px;
 }

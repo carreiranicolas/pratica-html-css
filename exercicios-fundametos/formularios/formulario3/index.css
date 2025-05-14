@@ -1,0 +1,32 @@
+div{
+    background-color: #3fa9f3;
+    width: 300px;
+    height: 400px;
+}
+
+
+label{
+    display: block;
+    color: #feffff;
+    margin-top: 10px;
+}
+
+
+input{
+    margin-top: 6px;
+    outline: none;   /* Em outline eu tiro aquela "sombra" de quando eu clico no input */
+    border: none;  /* Deixei o border como none para depois deixar uma borda só embaixo */
+    border-bottom: 1px solid #feffff;
+    width: 250px;
+
+}
+
+input, textarea{
+    background-color: #3fa9f3;
+    color: #feffff;;
+}
+
+button{
+    background-color: #feffff;
+    
+}
