@@ -1,0 +1,28 @@
+/*A pagina deve ter as cores do Real Madrid.
+
+Além disso, lembre de aplicar as unidades de medidas de forma
+inteligente. Para isso consulte o DOCS se necessário
+
+*/
+
+
+
+body{
+    margin: 0;
+}
+
+#cape{
+    background-color: burlywood;
+    height: 200px;
+}
+
+
+#apresentation{
+    background-color: rgb(185, 106, 70);
+    height: 320px;
+}
+
+#rodape{
+    background-color: black;
+    height: 200px;
+}
