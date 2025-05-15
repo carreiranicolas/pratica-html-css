@@ -1,7 +1,16 @@
+form{
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
 div{
     background-color: #3fa9f3;
+    border: 1px solid black;
     width: 300px;
-    height: 400px;
+    height: 380px;
+    border-radius: 10px;
+    
 }
 
 
@@ -18,15 +27,37 @@ input{
     border: none;  /* Deixei o border como none para depois deixar uma borda só embaixo */
     border-bottom: 1px solid #feffff;
     width: 250px;
+    
 
 }
 
 input, textarea{
     background-color: #3fa9f3;
-    color: #feffff;;
+    color: rgb(71, 69, 69);
+    
+}
+
+textarea{
+    border: 1px solid #feffff;
+    border-radius: 5px;
+    width: 250px;
+    height: 60px;
+    margin-top: 6px;
+    resize: none;
+    outline: none; 
 }
 
 button{
+    border: 1px solid #feffff;
     background-color: #feffff;
+    margin-top: 10px;
+    width: 250px;
+    height: 27px;
+    font-size: 14px;
+    
+}
+
+button:hover{
+    background-color: rgb(218, 215, 215);
     
 }
