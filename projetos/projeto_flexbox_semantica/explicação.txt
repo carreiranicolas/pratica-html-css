@@ -1,0 +1,24 @@
+- O que é o projeto?
+
+Nesta pasta, temos um projeto passado no modulo "Flexbox na prática" do curso de HTML e CSS avançado.
+O projeto consiste em criar um site com base em um template aplicando os conheceimentos de FlexBox, Html semantico
+e muitos outros conceitos que fomos aprendendo.
+
+- Elementos do projeto:
+
+O site possui uma area de navegação, onde alternamos entre "Home", "Blog", "Pages".. Um banner, onde dentro dele,
+teremos uma frase de efeito e na parte inferior do banner teremos 3 partes com algumas informações. Embaixo do banner,
+teremos uma area lateral com os departamentos e embaixo dessa area lateral, as informações para realizar a consulta.
+Do lado esquerdo da parte de departamentos, temos as ultimas noticias. Por fim, temos o rodapé
+
+- Dicas para o projeto:
+
+Um layout sempre é feito de cima para baixo, da esquerda para a direita, pois é o padrão de leitura de um layout.
+Dessa forma, nós começamos o projeto criando a estrutura básica que permite que nós façamos nosso site e começaremos
+pelo topo (como deve ser), pela area de navegação
+
+- Estrutura do projeto:
+
+index.html: Página principal
+
+/assets/: Contém as imagens do template do site
