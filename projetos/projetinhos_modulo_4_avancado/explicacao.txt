@@ -1,0 +1,12 @@
+Nesta pasta, teremos outras pastas referentes a 5 diferentes projetinhos que foram passados nas 5 primeiras
+aulas do modulo de Seletores e CSS3, do curso de HTML e CSS avançado. Dentre os projetinhos, temos
+
+- Pagina de tributo
+
+- Formulario de pesquisa
+
+- Pagina de apresentação
+
+- Clone do Google
+
+- Clone dos resultados do Google
